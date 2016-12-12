@@ -1,2 +1,4 @@
 # hello-2
-just another demo
+Just another demo.
+
+This is a new line of text added for fun.
